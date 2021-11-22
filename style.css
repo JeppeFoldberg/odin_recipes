@@ -1,0 +1,24 @@
+h1,
+h2 {
+    color: aquamarine;
+}
+
+a {
+    background-color: black;
+    color: aquamarine;
+}
+
+p, 
+ul,
+ol {
+    color: blanchedalmond;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+* {
+    background-color: black;
+}
